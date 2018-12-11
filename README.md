@@ -1,4 +1,4 @@
-# app6_planet
+# planet_App
 
 A new Flutter project.
 
